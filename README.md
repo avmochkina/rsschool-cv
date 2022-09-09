@@ -1,1 +1,1 @@
-[CV-markdown](https://avmochkina.github.io/rsschool-cv/cv)
+[CV-markdown](https://avmochkina.github.io/rsschool-cv/)
