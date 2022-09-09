@@ -16,13 +16,7 @@ _____
 ### About Me
 
 My privious job leaded me to stagnation and I think that I need to change something. It happened  that I got interested in design and web development, so I finished a design course in 2021. Thanks to that I have acquired some knowledge of HTML and CSS, design systems and UX patterns.
-Now my focus is on front-end development and RS School helps me to learn it. I have been studying for six months and I know so much already.  My personal skills such as:
-
- + Creativity and good imagination
- + Being a hard-working person 
- + Fast learner
- + and also I’m an excellent team worker
-help me to learn more quickly and efficiently. I'm willing to study and become an excellent front-end developer. I'm excited about what I've been working on. I'm always up for a challenge and I'm looking for a place where I can continue to grow and learn.
+Now my focus is on front-end development and RS School helps me to learn it. I have been studying for six months and I know so much already.  My personal skills such as: creativity and good imagination, being a hard-working person, fast learner and also I’m an excellent team worker. And all of these skills help me to learn more quickly and efficiently. I'm willing to study and become an excellent front-end developer. I'm excited about what I've been working on. I'm always up for a challenge and I'm looking for a place where I can continue to grow and learn.
 
 _______
 
